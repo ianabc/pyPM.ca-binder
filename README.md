@@ -2,6 +2,6 @@
 
 # pyPM.ca Binder Example
 
-This is a minimal example of Dean [Karlan's PyPM.ca
+This is a minimal example of Dean [Karlen's PyPM.ca
 package](https://github.com/pypm/pypmca) running on
 [mybinder.org](https://mybinder.org).
