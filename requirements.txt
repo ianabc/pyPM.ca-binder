@@ -1,4 +1,4 @@
 numpy
 scipy
 texttable
-ipypm>=0.1.3
+ipypm>=0.1.2
